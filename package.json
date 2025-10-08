@@ -1,0 +1,9 @@
+{
+"build": {
+    "start": "npm run dev",
+    "build": "npm build"
+},
+
+"devDependencies": {
+}
+}
